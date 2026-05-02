@@ -1,0 +1,15 @@
+password
+12345678
+123456789
+1234567890
+admin
+qwerty
+letmein
+welcome
+internet
+samsung
+galaxy
+android
+test
+hello
+password123
